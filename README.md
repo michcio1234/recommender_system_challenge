@@ -1,5 +1,9 @@
 # recommender_system_challenge
-Recommender System Challenge by @Sirajology on [Youtube](https://youtu.be/9gBC9R-msAk).
+This is a solution to Recommender System Challenge by @Sirajology on [Youtube](https://youtu.be/9gBC9R-msAk).
+
+This solution uses Amazon ratings dataset available at http://jmcauley.ucsd.edu/data/amazon/links.html. You can download the 'ratings only' version of any category, set a path to CSV file in the main script and simply run it.
+
+Below I paste Siraj's description of the challenge.
 
 ##Overview
 
